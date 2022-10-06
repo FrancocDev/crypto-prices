@@ -10,6 +10,7 @@ const Container = styled.div`
   align-items: center;
   width: 100%;
   padding: 2rem 0;
+  box-sizing: border-box;
   min-height: 100vh;
   justify-content: space-around;
   background-color: #2D3047;
