@@ -1,4 +1,4 @@
-# crypto-prices
+# Crypto Prices
 
 This is a project to check the conversion rate between some FIAT money and popular cryptos using the API of Cryptocompare.
 
